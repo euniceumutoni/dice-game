@@ -25,4 +25,4 @@ if (randomNumber1 > randomNumber2) {
     
     document.querySelector("h1").innerHTML = "Draw!";
 }
-//There we have generated a game in simple javascript
+//There, we have generated a game in simple javascript
